@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "567571379050",
+    "project_id": "spark-digital-7c00d",
+    "storage_bucket": "spark-digital-7c00d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567571379050:android:e93cbca8ffd83616102b13",
+        "android_client_info": {
+          "package_name": "com.xsupermu.spark_digital"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567571379050-dpn5i422c3fa5b3pk7uvs9t06fd05leo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbQ_pvfoRKF6-BVy8rPfQ8S-Og9h18PCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567571379050-dpn5i422c3fa5b3pk7uvs9t06fd05leo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "567571379050-hnqft98rtuc6oe385cl5ka30th5heb1p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.xsupermu.sparkDigital"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
