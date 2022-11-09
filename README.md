@@ -6,7 +6,7 @@ Muhammad A. Hafez
 
 The task is to create registration and authentication screens using Flutter, Firestore and Firebase authentication. 
 
-We have a registration screen with the below fields. Add in years of birth to the drop-down field, and gender options. Link between the registration and log in fields. There is a forgot password option also. Include Error handling. It is not necessary to match the design or fonts exactly, we are more looking at the functionality of your solution.
+We have a registration screen with the below fields. Add in years of birth to the drop-down field, and gender options. Link between the registration and log in fields. There is a forgot password option also. Include Error handling. It is not necessary to match the design or fonts exactly.
 
 ![PastedGraphic-1](https://user-images.githubusercontent.com/17935590/200926389-8bf5ae8e-94d7-46d6-a099-97e5b30fb710.png)
 
